@@ -1,7 +1,7 @@
 music-storage/
 │
 ├── metadata/
-│   └── songs.json          <-- Berisi daftar lagu, judul, artis, cover, dan path file
+│   └── music.json          <-- Berisi daftar lagu, judul, artis, cover, dan path file
 │
 └── tracks/
     ├── pop/
