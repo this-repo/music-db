@@ -5,5 +5,12 @@
     "artist": "Nama Artis",
     "genre": "Pop",
     "url": "https://raw.githubusercontent.com/username/music-storage/main/tracks/pop/lagu-satu.mp3"
-  }
+  },
+  {
+    "id": "2",
+    "title": "Judul Lagu Kedua",
+    "artist": "Nama Artis",
+    "genre": "Pop",
+    "url": "https://raw.githubusercontent.com/username/music-storage/main/tracks/pop/lagu-dua.mp3"
+  },
 ]
