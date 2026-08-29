@@ -139,7 +139,34 @@
         "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/bergema_sampai_selamanya-Nadhif-Basalamah-pop.mp3"
 
 
+    },
+    {
+        "id": "13",
+        "title": "Sedia Aku Sebelum Hujan",
+        "artist": "Idgitaf",
+        "genre": "Pop",
+        "album":"Mengudara",
+        "year": 2025 ,
+        "duration":198   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Sedia_Aku_Sebelum_Hujan-Idgitaf-pop.mp3"
+
+
+    },
+    {
+        "id": "14",
+        "title": "Ada Titik-Titik Di ujung doa ",
+        "artist": "Sal Priadi",
+        "genre": "Pop",
+        "album":"*",
+        "year": 2024 ,
+        "duration":198   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Sedia_Aku_Sebelum_Hujan-Idgitaf-pop.mp3"
+
+
     }
+    
     
 
 
