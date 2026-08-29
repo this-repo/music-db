@@ -50,7 +50,7 @@
         "genre": "Pop",
         "album": "*",
         "year": 2025,
-        "duration": 0,
+        "duration": 227 ,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
         "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Bahagia_Lagi-Piche_Kota-pop.mp3"
     },
@@ -61,10 +61,75 @@
         "genre": "Pop",
         "album":"Resonance",
         "year": 2026 ,
-        "duration":0,
+        "duration":245,
         "cover":"",
         "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Jangan_Paksa_Rindu_(Beda)-Ifan_Seventeen-pop.mp3"
-        
+
+
+    },
+    {
+        "id": "7",
+        "title": "Everything u are",
+        "artist": "Hindia",
+        "genre": "Pop",
+        "album":"Doves, '25 on Blank Canvas",
+        "year": 2025 ,
+        "duration":236,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/everything_u_are-Hindia-pop.mp3"
+    },
+    {
+        "id": "8",
+        "title": "Jatuh Suka",
+        "artist": "Tulus",
+        "genre": "Pop",
+        "album":"Manusia (Trek ke-6)",
+        "year": 2022 ,
+        "duration":235 ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Jatuh_Suka-Tulus-pop.mp3"
+    },
+    {
+        "id": "9",
+        "title": "Teh Hijau",
+        "artist": "Tulus",
+        "genre": "Pop",
+        "album":"*",
+        "year": 2026 ,
+        "duration":212 ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Teh_Hijau-Tulus-pop.mp3"
+
+    },
+    {
+        "id": "10",
+        "title": "Ini Abadi",
+        "artist": "Perunggu",
+        "genre": "Rock",
+        "album":"Memorandum (Track ke-8)",
+        "year": 2022 ,
+        "duration":232  ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/rock/Ini_Abadi-Perunggu-rock.mp3"
+
+
+    },
+    {
+        "id": "11",
+        "title": "Iqro'",
+        "artist": "Raim Laode",
+        "genre": "Pop",
+        "album":"*",
+        "year": 2026 ,
+        "duration":260  ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Iqro'-Raim_Laode-pop.mp3"
+
 
     }
+
+
+    
+
+
 ]
