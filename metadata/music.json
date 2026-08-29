@@ -165,8 +165,46 @@
         "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Sedia_Aku_Sebelum_Hujan-Idgitaf-pop.mp3"
 
 
+    },
+    {
+        "id": "15",
+        "title": "Lesung Pipi",
+        "artist": "Raim Laode",
+        "genre": "Pop",
+        "album":"*",
+        "year": 2023 ,
+        "duration":198   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Lesung_Pipi-Raim_Laode-pop.mp3"
+
+
+    },
+    {
+        "id": "16",
+        "title": "Nina",
+        "artist": "Feast",
+        "genre": "Rock",
+        "album":"Nina",
+        "year": 2024 ,
+        "duration":198   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/rock/Nina-Feast-rock.mp3"
+
+
+    },
+    {
+        "id": "17",
+        "title": "Tarot",
+        "artist": "Feast",
+        "genre": "Rock",
+        "album":"Membangun & Menghancurkan",
+        "year": 202 ,
+        "duration":198   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/rock/Tarot-Feast-rock.mp3"
+
+
     }
-    
     
 
 
