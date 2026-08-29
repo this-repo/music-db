@@ -42,5 +42,29 @@
         "duration": 0,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
         "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/kota_ini_tak_sama_tanpamu-Nadhif_Basalamah-pop.mp3"
+    },
+    {
+        "id": "5",
+        "title": "Bahagia Lagi",
+        "artist": "Piche Kota",
+        "genre": "Pop",
+        "album": "*",
+        "year": 2025,
+        "duration": 0,
+        "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Bahagia_Lagi-Piche_Kota-pop.mp3"
+    },
+    {
+        "id": "6",
+        "title": "Jangan Paksa Rindu (Beda)",
+        "artist": "Ifan Seventeen",
+        "genre": "Pop",
+        "album":"Resonance",
+        "year": 2026 ,
+        "duration":0,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Jangan_Paksa_Rindu_(Beda)-Ifan_Seventeen-pop.mp3"
+        
+
     }
 ]
