@@ -126,7 +126,21 @@
         "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Iqro'-Raim_Laode-pop.mp3"
 
 
+    },
+    {
+        "id": "12",
+        "title": "Bergema Sampai Selamanya",
+        "artist": "Nadhif Basalamah",
+        "genre": "Pop",
+        "album":"*",
+        "year": 2025 ,
+        "duration":198   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/bergema_sampai_selamanya-Nadhif-Basalamah-pop.mp3"
+
+
     }
+    
 
 
     
