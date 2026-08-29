@@ -9,5 +9,38 @@
         "duration": 306,
         "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGeg4faM4OJbe_HVwySDQPYDby5eV5XbGWmkEeN3ZVA&s",
         "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Sesi-Potret-e%C5%84au_(feat.%20Ari%20Lesmana)-pop.mp3"
+    },
+    {
+        "id": "2",
+        "title": "Bersenja Gurau",
+        "artist": "Raim Laode",
+        "genre": "Pop",
+        "album": "iqro'",
+        "year": 2026,
+        "duration": 0,
+        "cover": "https://i.ytimg.com/vi/jmvX6XyvCy0/mqdefault.jpg",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Bersenja_Gurau-Raim_Laode-pop.mp3"
+    },
+    {
+        "id": "3",
+        "title": "Dunia Yang Nanti",
+        "artist": "Raim Laode",
+        "genre": "Pop",
+        "album": "iqro'",
+        "year": 2026,
+        "duration": 0,
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREpzhEA9rnL7gFUx1NJJLy2fwrUkRVsSnL2bjLMcv13u9IpXuRwbuaPGnv&s=10",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Dunia_Yang_Nanti-Raim_Laode-pop.mp3"
+    },
+    {
+        "id": "4",
+        "title": "kota ini tak sama tanpamu",
+        "artist": "Nadhif Basalamah",
+        "genre": "Pop",
+        "album": "Nadhif",
+        "year": 2024,
+        "duration": 0,
+        "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/kota_ini_tak_sama_tanpamu-Nadhif_Basalamah-pop.mp3"
     }
 ]
