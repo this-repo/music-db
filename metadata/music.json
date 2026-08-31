@@ -260,23 +260,23 @@
         "id": "22",
         "title": "Cincin",
         "artist": "Hindia",
-        "genre": "Indie Pop",
+        "genre": "Pop",
         "album": "Lagipula Hidup Akan Berakhir",
         "year": 2026,
         "duration": 261,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
-        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/indie_pop/Cincin-Hindia-indie_pop.mp3"
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Cincin-Hindia-pop.mp3"
     },
     {
         "id": "23",
         "title": "33x",
         "artist": "Perunggu",
-        "genre": "Indie Rock",
+        "genre": "Rock",
         "album": "Memorandum",
         "year": 2026,
         "duration": 194,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
-        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/indie_rock/33x-Perunggu-indie_rock.mp3"
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/rock/33x-Perunggu-rock.mp3"
     },
     {
         "id": "24",
@@ -469,45 +469,45 @@
         "id": "41",
         "title": "Rumah Ke Rumah",
         "artist": "Hindia",
-        "genre": "Indie Pop",
+        "genre": " Pop",
         "album": "Menari Dengan Bayangan",
         "year": 2026,
         "duration": 191,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
-        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/indie_pop/Rumah_Ke_Rumah-Hindia-indie_pop.mp3"
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Rumah_Ke_Rumah-Hindia-pop.mp3"
     },
     {
         "id": "42",
         "title": "Evaluasi",
         "artist": "Hindia",
-        "genre": "Indie Pop",
+        "genre": " Pop",
         "album": "Menari Dengan Bayangan",
         "year": 2026,
         "duration": 207,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
-        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/indie_pop/Evaluasi-Hindia-indie_pop.mp3"
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Evaluasi-Hindia-pop.mp3"
     },
     {
         "id": "43",
         "title": "Secukupnya",
         "artist": "Hindia",
-        "genre": "Indie Pop",
+        "genre": " Pop",
         "album": "Menari Dengan Bayangan",
         "year": 2026,
         "duration": 209,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
-        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/indie_pop/Secukupnya-Hindia-indie_pop.mp3"
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Secukupnya-Hindia-pop.mp3"
     },
     {
         "id": "44",
         "title": "Runtuh",
         "artist": "Feby Putri feat. Fiersa Besari",
-        "genre": "Indie Pop",
+        "genre": " Pop",
         "album": "Riuh",
         "year": 2026,
         "duration": 244,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
-        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/indie_pop/Runtuh-Feby_Putri_feat._Fiersa_Besari-indie_pop.mp3"
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Runtuh-Feby_Putri_feat._Fiersa_Besari-pop.mp3"
     },
     {
         "id": "45",
@@ -1030,23 +1030,23 @@
         "id": "92",
         "title": "Celengan Rindu",
         "artist": "Fiersa Besari",
-        "genre": "Indie Pop",
+        "genre": " Pop",
         "album": "Tempat Aku Pulang",
         "year": 2026,
         "duration": 286,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
-        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/indie_pop/Celengan_Rindu-Fiersa_Besari-indie_pop.mp3"
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Celengan_Rindu-Fiersa_Besari-pop.mp3"
     },
     {
         "id": "93",
         "title": "Waktu Yang Salah",
         "artist": "Fiersa Besari feat. Thantri",
-        "genre": "Indie Pop",
+        "genre": " Pop",
         "album": "Tempat Aku Pulang",
         "year": 2026,
         "duration": 260,
         "cover": "https://i.scdn.co/image/ab67616d0000b27387e7224938aa91019b17b791",
-        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/indie_pop/Waktu_Yang_Salah-Fiersa_Besari_feat._Thantri-indie_pop.mp3"
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Waktu_Yang_Salah-Fiersa_Besari_feat._Thantri-pop.mp3"
     },
     {
         "id": "94",
