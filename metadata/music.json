@@ -198,13 +198,66 @@
         "artist": "Feast",
         "genre": "Rock",
         "album":"Membangun & Menghancurkan",
-        "year": 202 ,
+        "year": 2024 ,
         "duration":198   ,
         "cover":"",
         "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/rock/Tarot-Feast-rock.mp3"
 
 
+    },
+    {
+        "id": "18",
+        "title": "Apa Mungkin",
+        "artist": "Bernadya",
+        "genre": "Pop",
+        "album":"*",
+        "year": 2022,
+        "duration":198   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Apa_Mungkin-Bernadya-pop.mp3"
+
+
+    },
+    {
+        "id": "19",
+        "title": "Rabun Jauh",
+        "artist": "Bernadya",
+        "genre": "Pop",
+        "album":"*",
+        "year": 2026,
+        "duration":198   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Rabun_Jauh.-Bernadya-pop.mp3"
+
+
+    },
+    {
+        "id": "20",
+        "title": "serana",
+        "artist": "For Revenge",
+        "genre": "Pop",
+        "album":"Perayaan Patah Hati",
+        "year": 2020,
+        "duration":0   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Serana-For_Revenge-pop.mp3"
+
+
+    },
+    {
+        "id": "21",
+        "title": "Jakarta Hari Ini",
+        "artist": "For Revenge",
+        "genre": "Pop",
+        "album":"Perayaan Patah Hati",
+        "year": 2021,
+        "duration":0   ,
+        "cover":"",
+        "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Jakarta_Hari_Ini-For_Revenge-pop.mp3"
+
     }
+    
+    
     
 
 
