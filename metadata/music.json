@@ -252,7 +252,7 @@
         "album":"Perayaan Patah Hati",
         "year": 2021,
         "duration":0   ,
-        "cover":"https://github.com/this-repo/music-db/blob/main/cover/pop/Jakarta_Hari_Ini.png",
+        "cover":"https://raw.githubusercontent.com/this-repo/music-db/refs/heads/main/cover/pop/Jakarta_Hari_Ini.png",
         "url": "https://github.com/this-repo/music-db/raw/refs/heads/main/tracks/pop/Jakarta_Hari_Ini-For_Revenge-pop.mp3"
 
     },
